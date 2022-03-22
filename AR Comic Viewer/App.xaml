@@ -5,7 +5,7 @@
 			 xmlns:viewModels="clr-namespace:AR_Comic_Viewer.ViewModels"
              StartupUri="Views/MainWindow.xaml">
 	<Application.Resources>
-		<viewModels:AppViewModelLocator x:Key="AppViewModelLocator"/>
+        <viewModels:AppViewModelLocator x:Key="AppViewModelLocator"/>
 		
 		<!--Color-->
 		<SolidColorBrush x:Key="BaseColor" Color="#5734cc"/>
